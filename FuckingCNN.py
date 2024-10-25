@@ -97,5 +97,3 @@ print(f'Accuracy of the model on the 10000 test images: {100 * correct / total:.
 # In[ ]:
 
 
-
-
